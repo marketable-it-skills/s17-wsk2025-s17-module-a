@@ -1,10 +1,10 @@
-КОНТАКТНАЯ ИНФОРМАЦИЯ:
+CONTACT INFORMATION:
 
-Электронная почта: support@example.com  
-Часы работы: Пн–Пт, с 9:00 до 18:00 (по местному времени)
+Email: support@example.com  
+Business hours: Mon–Fri, 9:00 AM–6:00 PM (local time)
 
 • Instagram: https://instagram.com/example  
 • Facebook: https://facebook.com/example  
 • Telegram: https://t.me/example  
-• X (бывший Twitter): https://x.com/example  
+• X (formerly Twitter): https://x.com/example  
 • LinkedIn: https://linkedin.com/company/example

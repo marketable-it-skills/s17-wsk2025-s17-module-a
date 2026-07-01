@@ -1,25 +1,25 @@
-Раздел 1. Общие положения
+Section 1. General provisions
 
-1. Мы уважаем вашу конфиденциальность и стремимся обеспечить защиту персональных данных, которые вы предоставляете при использовании нашего сайта.
+1. We respect your privacy and strive to protect the personal data you provide when using our website.
 
-2. Используя наш сайт, вы соглашаетесь с условиями данной политики конфиденциальности.
+2. By using our website, you agree to the terms of this privacy policy.
 
-3. Мы собираем только ту информацию, которая действительно необходима: имя, адрес электронной почты, контактные данные и технические сведения (например, IP-адрес, тип устройства и браузера).
+3. We collect only information that is truly necessary: name, email address, contact details, and technical data (for example, IP address, device type, and browser).
 
-4. Персональные данные используются исключительно для целей, связанных с предоставлением и улучшением сервиса: обработки обращений, поддержки пользователей и улучшения пользовательского опыта.
+4. Personal data is used solely for purposes related to providing and improving the service: processing inquiries, supporting users, and improving the user experience.
 
-5. Мы не передаём ваши данные третьим лицам без вашего согласия, за исключением случаев, предусмотренных законом.
+5. We do not share your data with third parties without your consent, except where required by law.
 
-Раздел 2. Хранение и безопасность данных
+Section 2. Data storage and security
 
-6. Все данные хранятся на защищённых серверах с ограниченным доступом. Мы применяем технические и организационные меры для предотвращения несанкционированного доступа.
+6. All data is stored on secure servers with restricted access. We apply technical and organizational measures to prevent unauthorized access.
 
-7. Срок хранения персональных данных ограничен рамками необходимости — мы не храним информацию дольше, чем это требуется для целей её обработки.
+7. The retention period for personal data is limited to what is necessary — we do not keep information longer than required for its processing purposes.
 
-8. Пользователь имеет право запросить доступ к своим данным, внести в них изменения или потребовать их удаления, направив соответствующий запрос на наш контактный адрес.
+8. Users have the right to request access to their data, request changes, or demand deletion by sending a request to our contact address.
 
-9. Мы можем использовать файлы cookie и аналогичные технологии для сбора технической информации о посещениях сайта, с целью аналитики и улучшения работы платформы.
+9. We may use cookies and similar technologies to collect technical information about site visits for analytics and to improve platform performance.
 
-10. Политика конфиденциальности может быть обновлена. Обо всех существенных изменениях мы будем информировать пользователей путём публикации обновлённой версии на сайте.
+10. This privacy policy may be updated. We will inform users of any material changes by publishing an updated version on the website.
 
-Контактная информация для вопросов по защите данных: privacy@example.com
+Contact for data protection inquiries: privacy@example.com
