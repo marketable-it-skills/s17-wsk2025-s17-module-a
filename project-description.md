@@ -12,11 +12,9 @@ Your task is to build a modern landing site that presents the service's features
 
 ## General Description of Project and Tasks
 
-The landing site must consist of four logically connected pages. Each page must be reachable via navigation, share a consistent style, and display correctly on devices of different sizes.
+The landing site must consist of six logically connected pages. Each page must be reachable via navigation, share a consistent style, and display correctly on devices of different sizes.
 
 Please apply SEO optimization and the required meta tags on every page. Configure **OpenGraph** on the website.
-
-Include a **README.md** file with instructions for running the project. In that file, describe how to change the link targets of the `Publish` and `View` buttons.
 
 The following website-wide requirements apply:
 
@@ -53,7 +51,7 @@ Include the following:
 - Benefits for sellers (`assets/texts/seller.txt`)
 - FAQ section (`assets/texts/seller-faq.txt`)
 
-### For Seller – Price List
+### For Seller Price List Page
 
 Include the following:
 
@@ -69,7 +67,7 @@ Include the following:
 - Benefits for buyers (`assets/texts/buyer.txt`)
 - FAQ section (`assets/texts/buyer-faq.txt`)
 
-### Contacts
+### Contacts Page
 
 Include the following:
 
@@ -80,7 +78,7 @@ Include the following:
 
 Content is provided in `assets/texts/contacts.txt`.
 
-### Policy
+### Policy Page
 
 Place the privacy policy text from `assets/texts/policy.txt` on a separate page.
 
@@ -117,7 +115,7 @@ Implement a footer on every page with navigation and links to other pages.
 
 ## Assessment
 
-Module A will be assessed using the latest stable version of Google Chrome and Firefox. HTML and CSS will be assessed using W3C validators (https://validator.w3.org/ and https://jigsaw.w3.org/css-validator/). Accessibility will be tested using the `axe` browser extension installed in Google Chrome to assess that the website is "accessibility supported" according to WCAG.
+Module A will be assessed using the latest stable version of Google Chrome and Firefox. HTML and CSS will be assessed using W3C validators (<https://validator.w3.org/> and <https://jigsaw.w3.org/css-validator/>). Accessibility will be tested using the `axe` browser extension installed in Google Chrome to assess that the website is "accessibility supported" according to WCAG.
 
 ## Mark distribution
 
