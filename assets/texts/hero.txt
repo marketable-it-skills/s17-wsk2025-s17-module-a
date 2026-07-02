@@ -1,0 +1,7 @@
+Project name: CollectiFair
+
+Headline: Your marketplace for collectible and themed treasures
+
+Short description: Buy and sell LEGO sets, board games, comics, figurines, souvenirs, and more — all in one place built for collectors and enthusiasts.
+
+Call-to-action button: Start exploring

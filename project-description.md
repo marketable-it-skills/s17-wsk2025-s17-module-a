@@ -18,7 +18,7 @@ Please apply SEO optimization and the required meta tags on every page. Configur
 
 The following website-wide requirements apply:
 
-- Frameworks are not allowed
+- Only HTML and CSS may be used; JavaScript, frameworks, and CSS libraries are not allowed
 - Responsive layout: correct display on devices with different resolutions
 - Consistent navigation structure on all pages
 - Semantic, clean markup
@@ -36,12 +36,12 @@ The following pages must be implemented.
 
 Include the following:
 
-- Promo block with the project name, a short description, and a call-to-action
-- About the project: goals, audience, platform highlights
+- Promo block with the project name, a short description, and a call-to-action (`assets/texts/hero.txt`)
+- About the project: goals, audience, platform highlights (`assets/texts/about.txt`)
 - Product categories (`assets/texts/category.txt`)
-- Service benefits
-- Call-to-action block to engage users
-- User testimonials section
+- Service benefits (`assets/texts/benefits.txt`)
+- Call-to-action block to engage users (`assets/texts/cta.txt`)
+- User testimonials section (`assets/texts/testimonials.txt`)
 
 ### For Seller Page
 
@@ -55,7 +55,7 @@ Include the following:
 
 Include the following:
 
-- Price list (`assets/texts/seller-price-list.txt`). Let the user choose the number of days to calculate the cost of each service. The user must select the number of days using a `range` input. Prices and day counts are defined in the file.
+- Price list (`assets/texts/seller-price-list.txt`). Let the user choose the number of days to calculate the cost of each service. The day selector must look like a range slider. Prices and day counts are defined in the file.
 - Benefits for sellers (`assets/texts/seller-price-list-advantages.txt`)
 - FAQ section (`assets/texts/seller-price-list-faq.txt`)
 
@@ -88,9 +88,11 @@ Format the text with HTML elements that ensure readability: headings, paragraphs
 
 Every page must include a **header** with:
 
-- Logo
+- Logo from the provided assets (`assets/logo.png`)
 - Navigation
 - `Publish` and `View` buttons
+
+The header must remain visible while scrolling (sticky header).
 
 These buttons currently link to the `For Seller` and `For Buyer` pages, but it must be easy to change their link targets.
 
@@ -109,9 +111,7 @@ The navigation must include:
 
 Every menu item except `Home` has a second-level submenu. It must appear on hover as a separate block.
 
-**JavaScript must not be used** to show the second-level menu.
-
-Implement a footer on every page with navigation and links to other pages.
+Implement a footer on every page with navigation, links to other pages, and a copyright notice with the current year.
 
 ## Assessment
 
